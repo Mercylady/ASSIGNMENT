@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-eye {
+    width: 300px;
+    height: 200px;
+    background-image: url(img/eye.jpg.webp);
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+
+.img-eye:hover {
+background-size: 100%;
+}
